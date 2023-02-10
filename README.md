@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Xie</h1>
-<h3 align="center">A senior computer science student at Stony Brook University.</h3>
+<h3 align="center">A recent graduate of Stony Brook University.</h3>
 
 - 🔭 I’m currently working on [amazon-clone](https://github.com/Daniel-Xie-Dev/amazon-clone)
 
